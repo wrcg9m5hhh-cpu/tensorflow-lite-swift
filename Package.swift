@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
             name: "TensorFlowLiteC",
             url: "https://github.com/readdle/tensorflow-lite-swift/releases/download/2.16.1/TensorFlowLiteC-2.16.1.xcframework.zip",
-            checksum: "609d872d61d5553071a1c179ad7ddfc1a73b3ddc020a615e2a726e39fff4105e"
+            checksum: "c3d00a89a97999510ce9acee5063a847dc9b6fbf3353ae97d50bb8f94270a6bf"
         ),
         .target(
             name: "TensorFlowLite",
